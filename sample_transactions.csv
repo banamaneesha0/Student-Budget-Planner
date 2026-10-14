@@ -1,0 +1,9 @@
+Date,Amount,Description,Merchant,Type,Category
+2026-10-10,14.50,Morning Coffee and Pastry,Starbucks,Expense,Dining
+2026-10-11,85.20,Weekly Produce Haul,Trader Joe's,Expense,Groceries
+2026-10-11,45.00,Full Tank Fuel,Chevron,Expense,Transportation
+2026-10-12,19.99,Monthly Cloud Hosting,DigitalOcean,Expense,Subscriptions
+2026-10-12,120.00,Running Shoes,Nike,Expense,Shopping
+2026-10-13,65.40,Pharmacy and Prescriptions,CVS Pharmacy,Expense,Healthcare
+2026-10-14,3250.00,Bi-Weekly Payroll Direct Deposit,Acme Corp,Income,Income
+2026-10-14,42.80,Dinner with Friends,Chipotle,Expense,Dining
